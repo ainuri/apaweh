@@ -1,0 +1,42 @@
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.deps.json
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.json
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.dev.json
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.dll
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.pdb
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csproj.CoreCompileInputs.cache
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cache
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cs
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfoInputs.cache
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfo.cs
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorTargetAssemblyInfo.cache
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.dll
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.pdb
+C:\Users\Ainur Rofiq\source\repos\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csprojAssemblyReference.cache
+E:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.deps.json
+E:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.json
+E:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.dev.json
+E:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.dll
+E:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.pdb
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csprojAssemblyReference.cache
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csproj.CoreCompileInputs.cache
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cache
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cs
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfoInputs.cache
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfo.cs
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorTargetAssemblyInfo.cache
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.dll
+E:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.pdb
+D:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.deps.json
+D:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.json
+D:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.runtimeconfig.dev.json
+D:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.dll
+D:\WebCrf\WebCrf\bin\Debug\netcoreapp2.1\WebCrf.pdb
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csprojAssemblyReference.cache
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.csproj.CoreCompileInputs.cache
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cache
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorAssemblyInfo.cs
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfoInputs.cache
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.AssemblyInfo.cs
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.RazorTargetAssemblyInfo.cache
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.dll
+D:\WebCrf\WebCrf\obj\Debug\netcoreapp2.1\WebCrf.pdb
